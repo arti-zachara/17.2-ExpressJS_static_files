@@ -1,0 +1,25 @@
+{
+  "name": "17.2",
+  "version": "1.0.0",
+  "description": "Kodilla task 17.4 - Static files in ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arti-zachara/17.2-ExpressJS_static_files.git"
+  },
+  "keywords": [
+    "ExpressJS",
+    "static",
+    "files",
+    "routing"
+  ],
+  "author": "arti Zachara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arti-zachara/17.2-ExpressJS_static_files/issues"
+  },
+  "homepage": "https://github.com/arti-zachara/17.2-ExpressJS_static_files#readme"
+}
